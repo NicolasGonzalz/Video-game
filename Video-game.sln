@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Runner 3d", "Runner 3d", "{7FC3E65E-F9C3-B51A-835B-650806740637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Runner 3d\Assembly-CSharp-Editor.csproj", "{269E2766-D5EF-6C17-61BF-1EF6FE22A25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Runner 3d\Assembly-CSharp.csproj", "{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269E2766-D5EF-6C17-61BF-1EF6FE22A25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269E2766-D5EF-6C17-61BF-1EF6FE22A25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269E2766-D5EF-6C17-61BF-1EF6FE22A25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269E2766-D5EF-6C17-61BF-1EF6FE22A25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{269E2766-D5EF-6C17-61BF-1EF6FE22A25C} = {7FC3E65E-F9C3-B51A-835B-650806740637}
+		{E3B5D5D2-6B34-2122-9D54-29C6BB1CF828} = {7FC3E65E-F9C3-B51A-835B-650806740637}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CF7751B-D9DA-499B-B292-F0CF4FD6B0D8}
+	EndGlobalSection
+EndGlobal
